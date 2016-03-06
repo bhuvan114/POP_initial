@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Utils\Utils.cs">
+    <Files>
+      <File FileName="..\CANVAS\cs195-core\Assets\Core\Scenes\Scripts\MainController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SmartObjects\SmartObject.cs" Line="16" Column="3" />
+      <File FileName="Assets\scripts\Actions\Affordance.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Actions\Apologize.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Actions\Argue.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Actions\EnterScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Actions\Greet.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\main.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Planner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Utils\Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Utils\HelperClasses.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Utils\Utils.cs" Line="41" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
